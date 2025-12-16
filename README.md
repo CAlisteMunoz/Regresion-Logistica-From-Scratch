@@ -68,18 +68,3 @@ Regresion-Logistica-From-Scratch/
    ```
    python src/ejemplo.py
    ```
-
-## Pruebas
-
-Para ejecutar las pruebas unitarias, utiliza el siguiente comando:
-```
-python -m unittest discover -s tests
-```
-
-## Contribuciones
-
-Las contribuciones son bienvenidas. Si deseas contribuir, por favor abre un issue o envía un pull request.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT.
