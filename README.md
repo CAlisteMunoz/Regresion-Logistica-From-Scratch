@@ -46,6 +46,7 @@ Regresion-Logistica-From-Scratch/
 │   └── test_regresion.py       # Pruebas unitarias para validar integridad numérica
 ├── requirements.txt            # Dependencias del entorno Python
 └── README.md                   # Documentación técnica del proyecto
+```
 
 ## Instalación
 
